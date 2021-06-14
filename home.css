@@ -1,0 +1,36 @@
+.c1{
+	margin:25px;
+	text-align: center;
+	color: rgb(217, 15, 15);
+	font-family: 'Source Code Pro', monospace;
+	font-size:2.0em;
+}
+.c2{
+	margin:5px;
+	text-align: center;
+	color:black;
+	font-family: 'Source Code Pro', monospace;
+	font-size: 2.5em;
+
+}
+.c3{
+	margin:40px;
+	text-align: center;
+	text-align: justify;
+	font-size: 1.40em;
+	font-family: 'Montserrat', sans-serif;
+}
+.c4{
+	display: flex;
+	justify-content:center;
+}
+.c5{
+	margin:1px;
+	text-align: center;
+	font-family: 'Source Code Pro', monospace;
+}
+.c6{
+	display:flex;
+	justify-content: center;
+	margin:20px;
+}
